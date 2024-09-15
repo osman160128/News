@@ -4,7 +4,7 @@
      "newslink":"https://ctgpratidin.com/"
   },
   {
-     "name":"প্রথম আলোর ",
+     "name":"প্রথম আলো",
      "newslink":"https://www.prothomalo.com/"
   },
   {
@@ -14,5 +14,13 @@
   {
      "name":"চট্টগ্রাম খবর",
      "newslink":"https://ctgkhobor.com/"
+  },
+   {
+     "name":"The Daily Star ",
+     "newslink":"https://www.thedailystar.net/"
+  },
+   {
+     "name":"BBC News বাংলা",
+     "newslink":"https://www.bbc.com/bengali"
   }
 ]
